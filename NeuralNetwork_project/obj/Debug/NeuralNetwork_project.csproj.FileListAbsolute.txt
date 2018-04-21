@@ -1,0 +1,18 @@
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.exe.config
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.exe
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.pdb
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.csprojResolveAssemblyReference.cache
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.Form1.resources
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.Properties.Resources.resources
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.csproj.GenerateResource.Cache
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.exe
+\\Mac\Секретный портальчик\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.pdb
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.exe.config
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.exe
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.pdb
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.exe
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\bin\Debug\NeuralNetwork_project.pdb
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.Properties.Resources.resources
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.csproj.GenerateResource.Cache
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.Form1.resources
+Z:\Software Engineering\NeuralNetwork_project\NeuralNetwork_project\obj\Debug\NeuralNetwork_project.csprojResolveAssemblyReference.cache
